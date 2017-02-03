@@ -1,0 +1,5 @@
+rootProject.name = 'cildoc'
+include 'cil-diagnostic-server'
+include 'cil-doc-generator'
+include 'cil-lang'
+
